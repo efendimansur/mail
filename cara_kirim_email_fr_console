@@ -1,0 +1,16 @@
+Step 1 :
+- Create user account
+  adduser <nama_user>
+  
+Cara test send mail :
+1. telnet mail.awankinton.com smtp
+2. ehlo mail.awankinton.com
+3. ketik :
+   mail from:<pengirim>
+   rcpt to:<penerima>
+   data ->lalu enter
+   isi_subjeknya -> lalu enter
+   isi_body mailnya -> enter
+   . -> (titik )lalu enter
+   
+   
