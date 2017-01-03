@@ -1,2 +1,2 @@
-# mail
-# backup mail.awankinton.com
+# konfigurasi mail server
+# domain : mail.awankinton.com
